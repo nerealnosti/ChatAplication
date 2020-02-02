@@ -1,0 +1,49 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:ChatAplicationFaseto">
+
+
+    <Color x:Key="BackgroundLight">#efefef</Color>
+    <SolidColorBrush x:Key="BackgroundLightBrush" Color="{StaticResource BackgroundLight}"/>
+
+    <Color x:Key="BackgroundVeryLight">#fefefe</Color>
+    <SolidColorBrush x:Key="BackgroundVeryLightBrush" Color="{StaticResource BackgroundVeryLight}"/>
+
+    <Color x:Key="ForegroundMain">#686868</Color>
+    <SolidColorBrush x:Key="ForegroundMainBrush" Color="{StaticResource ForegroundMain}"/>
+
+    <Color x:Key="ForegroundVeryDark">#000000</Color>
+    <SolidColorBrush x:Key="ForegroundVeryDarkBrush" Color="{StaticResource ForegroundVeryDark}"/>
+
+    <Color x:Key="ForegroundVeryLight">#ffffff</Color>
+    <SolidColorBrush x:Key="ForegroundVeryLightBrush" Color="{StaticResource BackgroundLight}"/>
+
+    <Color x:Key="CloseButtonBackGround">#FE1930</Color>
+    <SolidColorBrush x:Key="CloseButtonBackGroundBrush" Color="{StaticResource CloseButtonBackGround}"/>
+
+    <Color x:Key="GrayColor">#ccddcc</Color>
+    <SolidColorBrush x:Key="GrayColorBrush" Color="{StaticResource GrayColor}"/>
+
+    <Color x:Key="TitleBlue">#6596BA</Color>
+    <SolidColorBrush x:Key="TitleBlueBrush" Color="{StaticResource TitleBlue}"/>
+
+    <Color x:Key="TitleYellow">#FFC66B</Color>
+    <SolidColorBrush x:Key="TitleYellowBrush" Color="{StaticResource TitleYellow}"/>
+
+    <Color x:Key="TitleRed">#DF6861</Color>
+    <SolidColorBrush x:Key="TitleRedBrush" Color="{StaticResource TitleRed}"/>
+
+    <Color x:Key="TitleGreen">#448D60</Color>
+    <SolidColorBrush x:Key="TitleGreenBrush" Color="{StaticResource TitleGreen}"/>
+
+    <Color x:Key="TitleOrange">#FFB324</Color>
+    <SolidColorBrush x:Key="TitleOrangeBrush" Color="{StaticResource TitleOrange}"/>
+
+    <Color x:Key="Titlewhite">#ffffff</Color>
+    <SolidColorBrush x:Key="TitleWhiteBrush" Color="{StaticResource Titlewhite}"/>
+
+
+
+
+
+</ResourceDictionary>

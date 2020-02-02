@@ -1,0 +1,25 @@
+﻿<Application x:Class="ChatAplicationFaseto.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ChatAplicationFaseto"
+             StartupUri="Chat.xaml">
+    <Application.Resources>
+
+        
+        <ResourceDictionary>
+            
+            <!--Order is immrotant-->
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Styles/ColorDictionary.xaml"/>
+                <ResourceDictionary Source="/Styles/ButtonsDictionary.xaml"/>
+                <ResourceDictionary Source="/Styles/FontsDictionary.xaml"/>
+                <ResourceDictionary Source="/Styles/TextDictionary.xaml"/>
+                <ResourceDictionary Source="/Styles/WindowsDictionary.xaml"/>
+                
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+        
+
+    </Application.Resources>
+</Application>
